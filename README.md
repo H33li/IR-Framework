@@ -1,6 +1,6 @@
 # Cybersecurity Incident Response Framework
 
-This repository contains a project we worked on to build a **Cybersecurity Incident Response Framework**. The framework is designed to guide organizations through the process of planning for, responding to, and learning from cybersecurity incidents in a structured way.
+This repository contains a project we worked on as a graduation project of ***Digital Egypt Pioneers Initiative (DEPI)***, it was to build a **Cybersecurity Incident Response Framework**. The framework is designed to guide organizations through the process of planning for, responding to, and learning from cybersecurity incidents in a structured way.
 
 ## What This Project Covers
 The framework focuses on:
