@@ -16,5 +16,3 @@ The key deliverable in this repository is:
 Cybersecurity incidents are increasingly common, and having a solid response plan can make all the difference. This framework aims to provide a clear, actionable approach to dealing with incidents, whether you’re new to cybersecurity or experienced in the field.
 
 ---
-
-Feel free to check it out and let me know if you have any feedback or questions!
